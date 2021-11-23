@@ -6,6 +6,6 @@ This game is played from your JavaScript console
 
 access it using command + option + I(For Mac) or ctrl + alt + I(For Windows)
 
-Then navigate over to console.
+Then navigate to console.
 
 Enjoy!
