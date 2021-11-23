@@ -8,4 +8,6 @@ access it using command + option + I(For Mac) or ctrl + alt + I(For Windows)
 
 Then navigate to console.
 
+Open the html file in your browswer to begin
+
 Enjoy!
