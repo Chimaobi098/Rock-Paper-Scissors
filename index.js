@@ -5,7 +5,7 @@ function computerPlay() {
 }
 
 function playerPlay() {
-  // CHANGES USER INPUT TO LOWERCASE AND RETURNS IT
+  // CHANGES USER INPUT TO LOWERCASE AND RETURNS It
   const play = prompt("Choose rock, paper or scissors").toLowerCase();
   if (play == "rock") {
     return "rock";
